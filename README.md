@@ -18,5 +18,4 @@
 
 # 在Mac下安装docbook环境
 
-    从http://docbook.org/xml/5.0/下载docbook-5.0.zip解压到/usr/local/share/xml/docbook/docbook-5.0，
-    为什么是/usr/local下面呢是涉及到Mac的一些权限即使是root用户有些目录也没有操作权限，我也没有改。
+1. 从[http://docbook.org/xml/5.0/](http://docbook.org/xml/5.0/)下载`docbook-5.0.zip`解压到`/usr/local/share/xml/docbook/docbook-5.0`。为什么是`/usr/local`下面呢是涉及到Mac的一些权限即使是root用户有些目录也没有操作权限，我也没有改。
