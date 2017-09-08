@@ -1,4 +1,5 @@
-# docbook
+# docbook是一个写作、排版、出版的利器。
+
 * docbook官网：<http://docbook.org/>
 
 * docbook各个版本在线文档：<http://tdg.docbook.org/>
