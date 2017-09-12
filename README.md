@@ -24,6 +24,7 @@
 2. 安装字符实体，从[http://www.oasis-open.org/docbook/xmlcharent/index.shtml](http://www.oasis-open.org/docbook/xmlcharent/index.shtml)下载。需要再安装这里就先跳过了
 
 3. 安装DocBook样式表。到`sourceforge`的[DocBook项目](https://sourceforge.net/projects/docbook/files/docbook-xsl/)下载DocBook样式表，点击`docbook-xsl`的链接，可看到列出了多个版本。本文写作时最新版本为1.79.1。将其解压到`/usr/local/share/xml/docbook/docbook-xsl-1.79.1`路径下。
+
 	![sourceforge docbook-xsl](https://github.com/dujuwen/docbook/blob/master/attachment/images/docbook-xsl.png)
 
 4.  
